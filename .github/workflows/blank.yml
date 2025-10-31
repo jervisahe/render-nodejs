@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'src/index.js'
+      - 'index.js'
   pull_request:
     branches: [ main ]
   workflow_dispatch:
