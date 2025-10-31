@@ -2,14 +2,14 @@
   "name": "nodejs-argo",
   "version": "1,0,0",
   "description": "Thsi is a node project",
-  "main": "index.js",
+  "main": "src/index.js",
   "author": "eooce",
   "repository": "",
   "license": "MIT",
   "private": false,
   "scripts": {
-    "dev": "node index.js",
-    "start": "node index.js"
+    "dev": "node src/index.js",
+    "start": "node src/index.js"
   },
   "dependencies": {
     "axios": "latest",
